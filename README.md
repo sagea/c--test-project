@@ -7,7 +7,7 @@ dotnet dev-certs https --trust
 
 Run App
 ```sh
-dotnet run --launch-profile https
+dotnet watch --launch-profile https
 ```
 
 Format Code
